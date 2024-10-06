@@ -2632,7 +2632,8 @@ Newsletter Area
 .newsletter-content .newsletter-form .btn {
   padding: 15px 35px;
   transition: all 0.7s;
-  background: #4547e9;
+  background: #f21860;
+  /* background: #4547e9; */
   box-shadow: none;
   border: 0;
   position: absolute;
@@ -2641,7 +2642,8 @@ Newsletter Area
   opacity: 1;
 }
 .newsletter-content .newsletter-form .btn:hover {
-  background: #f21860;
+  background: #4547e9;
+  /* background: #4547e9; */
   color: #ffffff;
 }
 .newsletter-content .newsletter-form .validation-danger {
